@@ -1,3 +1,6 @@
+##Refrence and Credit
+//Rishi Prasad 
+//https://github.com/rishipr/mern-auth/?source=post_page-----c405048e3669----------------------
 
 ## Quick Start
 
